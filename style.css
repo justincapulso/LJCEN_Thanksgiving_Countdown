@@ -65,6 +65,8 @@ h1{
 .timebox{
     display: flex;
     gap: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
 }
 
 .time{
@@ -72,11 +74,12 @@ h1{
 }
 
 .time h2{
-    font-size: 4rem;
+    font-size: 3rem;
     font-weight: 100;
 }
 
 }
+
 
 
 
