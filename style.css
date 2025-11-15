@@ -46,13 +46,13 @@ h1{
     }
     h1{
     font-size: 3rem;
-    font-weight: 650;
+    font-weight: 700;
     margin-bottom: 20px;
 }
 
 .timebox{
     display: flex;
-    gap: 60px;
+    gap: 50px;
 }
 
 .time{
@@ -65,6 +65,7 @@ h1{
 }
 
 }
+
 
 
 
