@@ -45,14 +45,14 @@ h1{
        
     }
     h1{
-    font-size: 2rem;
-    font-weight: 700;
+    font-size: 1rem;
+    font-weight: 650;
     margin-bottom: 20px;
 }
 
 .timebox{
     display: flex;
-    gap: 50px;
+    gap: 75px;
 }
 
 .time{
@@ -65,3 +65,4 @@ h1{
 }
 
 }
+
